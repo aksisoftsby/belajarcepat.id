@@ -25,7 +25,8 @@ description: >- #
   yang dapat membantu dan menjadikan anda belajar menjadi lebih cepat
   dengan metode Belajar Cepat dapat meningkatkan Kepintaran dan Kecerdasan anak anda
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://belajarcepat.id" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://belajarcepat.id" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
